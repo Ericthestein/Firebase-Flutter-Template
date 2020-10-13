@@ -66,7 +66,7 @@ For help getting started with [node.js](https://nodejs.org/en/), check out [this
 To set up the included Cloud Functions:
 1. Run `firebase init` and select the Cloud Functions option (make sure that you run `cd FirebaseCloudFunctions` to get into the FirebaseCloudFunctions directory if you are starting in the root directory).
 2. Modify [index.js](FirebaseCloudFunctions/functions/index.js) to include the credentials for your email bot account (see below). Make sure your account can be logged into through unsecure services.
-3. Enable the Blaze plan in your Firebase account and add a billing account (though this is required for Cloud Functions to be used, Firebase offers a [free tier](https://cloud.google.com/functions/pricing#:~:text=Cloud%20Functions%20provides%20a%20perpetual,Internet%20egress%20traffic%20per%20month.) that will be used up before you are charged.
+3. Enable the Blaze plan in your Firebase account and add a billing account (though this is required for Cloud Functions to be used, Firebase offers a [free tier](https://cloud.google.com/functions/pricing#:~:text=Cloud%20Functions%20provides%20a%20perpetual,Internet%20egress%20traffic%20per%20month.) that will be used up before you are charged).
 
 ### HTTP Firebase Cloud Function
 

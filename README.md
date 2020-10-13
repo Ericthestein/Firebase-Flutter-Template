@@ -74,4 +74,4 @@ EmailSender, the included HTTP Firebase Cloud Function, can be used to send a pr
 
 ## License
 
-This project is licensed under the MIT License - see [LICENSE.md](LICSENSE.md) for more details.
+This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) for more details.
